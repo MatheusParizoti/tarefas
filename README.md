@@ -1,5 +1,4 @@
-# Exercicio 1
+# Professor, esse é um repositorio para atividades
 
-* apenas testes
-* para mostrar 
-* que eu dei outro push
+* Procure pelo nome do professor
+* entre na pasta e procure um nome semelhante a pasta exigida
