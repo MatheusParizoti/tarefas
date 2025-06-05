@@ -21,3 +21,5 @@ ls - para ver se foi o repositorio "tarefas"
 
 - streamlit run app.py
 
+** clicar no ultimo link do https
+
